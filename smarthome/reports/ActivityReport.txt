@@ -1,0 +1,205 @@
+								Activity and usage report from iteration 0 to 150:
+					Usages
+		Person: Chris
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Microwave oven{Gorenje in Kitchen1} 1 times
+			Used device: Playstation{PS5 in Kid bedroom1} 1 times
+			Used device: Washing machine{Bosch in Hall1}3 times
+Person: Elena
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 2 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 2 times
+			Used device: Fridge{Whirlpool in Kitchen1} 2 times
+			Used device: Playstation{PS4 in Kid bedroom2} 3 times
+			Used device: TV {Sony in Master bedroom1} 1 times
+			Used device: Washing machine{Bosch in Hall1} 1 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}1 times
+Person: John
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 2 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Fridge{LG in Kitchen2} 1 times
+			Used device: Fridge{Whirlpool in Kitchen1} 1 times
+			Used device: TV {Hisense in Kitchen1} 1 times
+			Used device: TV {Samsung in Living Room2} 1 times
+			Used device: Washing machine{Bosch in Hall1} 4 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: Kate
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 5 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 4 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 3 times
+			Used device: Fridge{LG in Kitchen2} 4 times
+			Used device: Fridge{Whirlpool in Kitchen1} 2 times
+			Used device: Playstation{PS4 in Kid bedroom2} 1 times
+			Used device: TV {LG in Living Room1} 1 times
+			Used device: Washing machine{Bosch in Hall1} 5 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}5 times
+Person: Liz
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 5 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 5 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 4 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 4 times
+			Used device: Fridge{LG in Kitchen2} 1 times
+			Used device: Fridge{Whirlpool in Kitchen1} 3 times
+			Used device: Playstation{PS4 in Kid bedroom2} 1 times
+			Used device: TV {LG in Living Room1} 2 times
+			Used device: TV {Samsung in Living Room2} 1 times
+			Used device: Washing machine{Bosch in Hall1} 3 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}3 times
+Person: Mia
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 3 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 2 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 3 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 3 times
+			Used device: Fridge{LG in Kitchen2} 5 times
+			Used device: Fridge{Whirlpool in Kitchen1} 2 times
+			Used device: Microwave oven{Gorenje in Kitchen1} 1 times
+			Used device: TV {LG in Living Room1} 3 times
+			Used device: TV {Sony in Master bedroom1} 1 times
+			Used device: Washing machine{Bosch in Hall1} 3 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: Peter
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 1 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 2 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Fridge{Whirlpool in Kitchen1} 1 times
+			Used device: Microwave oven{Samsung in Kitchen2} 1 times
+			Used device: TV {LG in Living Room1} 1 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1} 1 times
+					Pet activities
+		Pet: Bu
+			Did: DOG_SOUND 150 times
+Pet: Rex
+			Did: DOG_SOUND 150 times
+Pet: Tom
+			Did: CAT_SOUND 150 times
+					Outdoor activity
+		Person: Chris
+			Used equipment: Bike{name='MotherBike', location=garage} 1 times
+			Used equipment: Bike{name='Stark', location=garage} 2 times
+			Used equipment: Ski{name='Fisher', location=gym}1 times
+Person: Elena
+			Used equipment: Ski{name='FatherSki', location=gym} 1 times
+			Used equipment: Ski{name='Fisher', location=gym}1 times
+Person: John
+			Used equipment: Bike{name='MotherBike', location=garage}1 times
+Person: Kate
+			Used equipment: Bike{name='FatherBike', location=garage} 2 times
+			Used equipment: Bike{name='MotherBike', location=garage} 3 times
+			Used equipment: Bike{name='Stark', location=garage}1 times
+Person: Liz
+			Used equipment: Bike{name='Stark', location=garage}2 times
+Person: Mia
+			Used equipment: Bike{name='FatherBike', location=garage} 1 times
+			Used equipment: Bike{name='Stark', location=garage} 2 times
+			Used equipment: Ski{name='Fisher', location=gym}1 times
+Person: Peter
+			Used equipment: Bike{name='FatherBike', location=garage} 1 times
+			Used equipment: Bike{name='MotherBike', location=garage} 1 times
+			Used equipment: Ski{name='Fisher', location=gym} 1 times
+			Used equipment: Ski{name='MotherSki', location=gym} 1 times
+								Activity and usage report from iteration 0 to 150:
+					Usages
+		Person: Chris
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 1 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Fridge{LG in Kitchen2} 1 times
+			Used device: Fridge{Whirlpool in Kitchen1} 4 times
+			Used device: Washing machine{Bosch in Hall1} 1 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}1 times
+Person: Elena
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 2 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 4 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 1 times
+			Used device: Fridge{LG in Kitchen2} 2 times
+			Used device: Fridge{Whirlpool in Kitchen1} 2 times
+			Used device: Washing machine{Bosch in Hall1} 1 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: John
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 1 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 1 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 1 times
+			Used device: Playstation{PS5 in Kid bedroom1} 2 times
+			Used device: TV {LG in Living Room1}2 times
+Person: Kate
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 4 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 4 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 1 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Fridge{LG in Kitchen2} 5 times
+			Used device: Fridge{Whirlpool in Kitchen1} 2 times
+			Used device: TV {Samsung in Living Room2} 2 times
+			Used device: TV {Sony in Master bedroom1} 1 times
+			Used device: Washing machine{Bosch in Hall1} 2 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: Liz
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 3 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 4 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 5 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 1 times
+			Used device: Fridge{LG in Kitchen2} 3 times
+			Used device: Fridge{Whirlpool in Kitchen1} 5 times
+			Used device: TV {LG in Living Room1} 2 times
+			Used device: TV {Samsung in Living Room2} 1 times
+			Used device: TV {Sony in Master bedroom1} 3 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: Mia
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 6 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 4 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 2 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Fridge{LG in Kitchen2} 3 times
+			Used device: Fridge{Whirlpool in Kitchen1} 3 times
+			Used device: Microwave oven{Gorenje in Kitchen1} 1 times
+			Used device: Microwave oven{Samsung in Kitchen2} 1 times
+			Used device: Playstation{PS5 in Kid bedroom1} 1 times
+			Used device: TV {Samsung in Living Room2} 1 times
+			Used device: TV {Sony in Master bedroom1} 1 times
+			Used device: Washing machine{Bosch in Hall1} 3 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1}2 times
+Person: Peter
+			Used device: Coffeemaker{ Braun BrewSense in Kitchen2} 2 times
+			Used device: Coffeemaker{ Cuisinart in Kitchen1} 1 times
+			Used device: Dish washer{Bosch in Bathroom first floor} 1 times
+			Used device: Dish washer{Whirlpool in Kitchen1} 2 times
+			Used device: Fridge{Whirlpool in Kitchen1} 1 times
+			Used device: Microwave oven{Gorenje in Kitchen1} 1 times
+			Used device: Microwave oven{Samsung in Kitchen2} 1 times
+			Used device: Playstation{PS4 in Kid bedroom2} 1 times
+			Used device: TV {Hisense in Kitchen1} 1 times
+			Used device: TV {Samsung in Living Room2} 1 times
+			Used device: Washing machine{Electrolux in Bathroom second floor1} 1 times
+					Pet activities
+		Pet: Bu
+			Did: DOG_SOUND 150 times
+Pet: Rex
+			Did: DOG_SOUND 150 times
+Pet: Tom
+			Did: CAT_SOUND 150 times
+					Outdoor activity
+		Person: Chris
+			Used equipment: Bike{name='FatherBike', location=garage} 1 times
+			Used equipment: Bike{name='MotherBike', location=garage} 3 times
+			Used equipment: Bike{name='Stark', location=garage}1 times
+Person: Elena
+			Used equipment: Bike{name='MotherBike', location=garage} 1 times
+			Used equipment: Bike{name='Stark', location=garage} 1 times
+			Used equipment: Ski{name='FatherSki', location=gym}1 times
+Person: John
+			Used equipment: Bike{name='FatherBike', location=garage}1 times
+Person: Kate
+			Used equipment: Bike{name='FatherBike', location=garage} 1 times
+			Used equipment: Bike{name='MotherBike', location=garage} 3 times
+			Used equipment: Bike{name='Stark', location=garage} 1 times
+			Used equipment: Ski{name='MotherSki', location=gym}2 times
+Person: Liz
+			Used equipment: Bike{name='MotherBike', location=garage} 3 times
+			Used equipment: Ski{name='MotherSki', location=gym}2 times
+Person: Mia
+			Used equipment: Bike{name='MotherBike', location=garage} 1 times
+			Used equipment: Ski{name='MotherSki', location=gym}2 times
+Person: Peter
+			Used equipment: Ski{name='Fisher', location=gym} 1 times
+			Used equipment: Ski{name='MotherSki', location=gym} 1 times

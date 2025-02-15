@@ -1,0 +1,210 @@
+										Home Configuration Report:
+Our home is located on the street: Na Lysine, 12
+The home has: 
+
+Floor: basement
+	Room: garage contains
+		0 windows
+		2 doors
+		Equipments: Bike{name='FatherBike', location=garage}
+		Equipments: Bike{name='MotherBike', location=garage}
+		Equipments: Bike{name='Stark', location=garage}
+	Room: garage1 contains
+		0 windows
+		2 doors
+	Room: garage2 contains
+		0 windows
+		2 doors
+	Room: garage3 contains
+		0 windows
+		2 doors
+	Room: gym contains
+		2 windows
+		2 doors
+		Equipments: Ski{name='FatherSki', location=gym}
+		Equipments: Ski{name='MotherSki', location=gym}
+		Equipments: Ski{name='Fisher', location=gym}
+Floor: First floor
+	Room: Kitchen1 contains
+		1 windows
+		1 doors
+		Devices: TV {Hisense in Kitchen1}
+		Devices: Coffeemaker{ Cuisinart in Kitchen1}
+		Devices: Dish washer{Whirlpool in Kitchen1}
+		Devices: Fridge{Whirlpool in Kitchen1}
+		Devices: Microwave oven{Gorenje in Kitchen1}
+	Room: Kitchen2 contains
+		1 windows
+		1 doors
+		Devices: Coffeemaker{ Braun BrewSense in Kitchen2}
+		Devices: Fridge{LG in Kitchen2}
+		Devices: Microwave oven{Samsung in Kitchen2}
+	Room: Living Room1 contains
+		2 windows
+		2 doors
+		Devices: TV {LG in Living Room1}
+	Room: Hall1 contains
+		0 windows
+		1 doors
+		Devices: Washing machine{Bosch in Hall1}
+	Room: Bathroom first floor contains
+		1 windows
+		1 doors
+		Devices: Dish washer{Bosch in Bathroom first floor}
+	Room: Master bedroom1 contains
+		2 windows
+		1 doors
+		Devices: TV {Sony in Master bedroom1}
+	Room: Kid bedroom1 contains
+		2 windows
+		1 doors
+		Devices: Playstation{PS5 in Kid bedroom1}
+Floor: Second floor
+	Room: Living Room2 contains
+		2 windows
+		1 doors
+		Devices: TV {Samsung in Living Room2}
+	Room: Hall2 contains
+		0 windows
+		1 doors
+	Room: Bathroom second floor1 contains
+		1 windows
+		1 doors
+		Devices: Washing machine{Electrolux in Bathroom second floor1}
+	Room: Bathroom second floor2 contains
+		1 windows
+		1 doors
+	Room: Master bedroom2 contains
+		1 windows
+		1 doors
+	Room: Master bedroom3 contains
+		1 windows
+		1 doors
+	Room: Kid bedroom2 contains
+		1 windows
+		1 doors
+		Devices: Playstation{PS4 in Kid bedroom2}
+	Room: Kid bedroom3 contains
+		1 windows
+		1 doors
+In the home live:
+		Humans: 
+			Elena
+			Liz
+			Greg
+			Tobias
+			Peter
+			Chris
+			John
+			Kate
+			Andrew
+			Mia
+		Pets: 
+			Rex (Dog)
+			Bu (Dog)
+			Tom (Cat)
+										Home Configuration Report:
+Our home is located on the street: Na Lysine, 12
+The home has: 
+
+Floor: basement
+	Room: garage contains
+		0 windows
+		2 doors
+		Equipments: Bike{name='FatherBike', location=garage}
+		Equipments: Bike{name='MotherBike', location=garage}
+		Equipments: Bike{name='Stark', location=garage}
+	Room: garage1 contains
+		0 windows
+		2 doors
+	Room: garage2 contains
+		0 windows
+		2 doors
+	Room: garage3 contains
+		0 windows
+		2 doors
+	Room: gym contains
+		2 windows
+		2 doors
+		Equipments: Ski{name='FatherSki', location=gym}
+		Equipments: Ski{name='MotherSki', location=gym}
+		Equipments: Ski{name='Fisher', location=gym}
+Floor: First floor
+	Room: Kitchen1 contains
+		1 windows
+		1 doors
+		Devices: TV {Hisense in Kitchen1}
+		Devices: Coffeemaker{ Cuisinart in Kitchen1}
+		Devices: Dish washer{Whirlpool in Kitchen1}
+		Devices: Fridge{Whirlpool in Kitchen1}
+		Devices: Microwave oven{Gorenje in Kitchen1}
+	Room: Kitchen2 contains
+		1 windows
+		1 doors
+		Devices: Coffeemaker{ Braun BrewSense in Kitchen2}
+		Devices: Fridge{LG in Kitchen2}
+		Devices: Microwave oven{Samsung in Kitchen2}
+	Room: Living Room1 contains
+		2 windows
+		2 doors
+		Devices: TV {LG in Living Room1}
+	Room: Hall1 contains
+		0 windows
+		1 doors
+		Devices: Washing machine{Bosch in Hall1}
+	Room: Bathroom first floor contains
+		1 windows
+		1 doors
+		Devices: Dish washer{Bosch in Bathroom first floor}
+	Room: Master bedroom1 contains
+		2 windows
+		1 doors
+		Devices: TV {Sony in Master bedroom1}
+	Room: Kid bedroom1 contains
+		2 windows
+		1 doors
+		Devices: Playstation{PS5 in Kid bedroom1}
+Floor: Second floor
+	Room: Living Room2 contains
+		2 windows
+		1 doors
+		Devices: TV {Samsung in Living Room2}
+	Room: Hall2 contains
+		0 windows
+		1 doors
+	Room: Bathroom second floor1 contains
+		1 windows
+		1 doors
+		Devices: Washing machine{Electrolux in Bathroom second floor1}
+	Room: Bathroom second floor2 contains
+		1 windows
+		1 doors
+	Room: Master bedroom2 contains
+		1 windows
+		1 doors
+	Room: Master bedroom3 contains
+		1 windows
+		1 doors
+	Room: Kid bedroom2 contains
+		1 windows
+		1 doors
+		Devices: Playstation{PS4 in Kid bedroom2}
+	Room: Kid bedroom3 contains
+		1 windows
+		1 doors
+In the home live:
+		Humans: 
+			Liz
+			Mia
+			Peter
+			Tobias
+			John
+			Kate
+			Chris
+			Greg
+			Andrew
+			Elena
+		Pets: 
+			Rex (Dog)
+			Bu (Dog)
+			Tom (Cat)

@@ -1,0 +1,60 @@
+										Consumption report
+	Device: Coffeemaker{ Braun BrewSense in Kitchen2}
+		Was consumed 18.70 of ELECTRICITY. Total price: 74.8
+	Device: Coffeemaker{ Cuisinart in Kitchen1}
+		Was consumed 27.50 of ELECTRICITY. Total price: 110.0
+	Device: Dish washer{Bosch in Bathroom first floor}
+		Was consumed 55.50 of WATER. Total price: 3663.0
+	Device: Dish washer{Whirlpool in Kitchen1}
+		Was consumed 83.50 of WATER. Total price: 5511.0
+	Device: Fridge{LG in Kitchen2}
+		Was consumed 103.50 of ELECTRICITY. Total price: 414.0
+	Device: Fridge{Whirlpool in Kitchen1}
+		Was consumed 123.50 of ELECTRICITY. Total price: 494.0
+	Device: Microwave oven{Gorenje in Kitchen1}
+		Was consumed 135.50 of ELECTRICITY. Total price: 542.0
+	Device: Microwave oven{Samsung in Kitchen2}
+		Was consumed 135.50 of ELECTRICITY. Total price: 542.0
+	Device: Playstation{PS4 in Kid bedroom2}
+		Was consumed 150.50 of ELECTRICITY. Total price: 602.0
+	Device: Playstation{PS5 in Kid bedroom1}
+		Was consumed 150.50 of ELECTRICITY. Total price: 602.0
+	Device: Washing machine{Bosch in Hall1}
+		Was consumed 174.50 of WATER. Total price: 11517.0
+	Device: Washing machine{Electrolux in Bathroom second floor1}
+		Was consumed 194.00 of WATER. Total price: 12804.0
+
+Total electricity consumption: 
+		Was consumed 750.70 of ELECTRICITY. Total price: 3002.8
+Total water consumption: 
+		Was consumed 408.00 of WATER. Total price: 26928.0
+										Consumption report
+	Device: Coffeemaker{ Braun BrewSense in Kitchen2}
+		Was consumed 19.80 of ELECTRICITY. Total price: 79.2
+	Device: Coffeemaker{ Cuisinart in Kitchen1}
+		Was consumed 34.10 of ELECTRICITY. Total price: 136.4
+	Device: Dish washer{Bosch in Bathroom first floor}
+		Was consumed 54.10 of WATER. Total price: 3570.6
+	Device: Dish washer{Whirlpool in Kitchen1}
+		Was consumed 70.10 of WATER. Total price: 4626.6
+	Device: Fridge{LG in Kitchen2}
+		Was consumed 96.10 of ELECTRICITY. Total price: 384.4
+	Device: Fridge{Whirlpool in Kitchen1}
+		Was consumed 128.10 of ELECTRICITY. Total price: 512.4
+	Device: Microwave oven{Gorenje in Kitchen1}
+		Was consumed 138.10 of ELECTRICITY. Total price: 552.4
+	Device: Microwave oven{Samsung in Kitchen2}
+		Was consumed 150.10 of ELECTRICITY. Total price: 600.4
+	Device: Playstation{PS4 in Kid bedroom2}
+		Was consumed 150.10 of ELECTRICITY. Total price: 600.4
+	Device: Playstation{PS5 in Kid bedroom1}
+		Was consumed 158.10 of ELECTRICITY. Total price: 632.4
+	Device: Washing machine{Bosch in Hall1}
+		Was consumed 165.60 of WATER. Total price: 10929.6
+	Device: Washing machine{Electrolux in Bathroom second floor1}
+		Was consumed 179.10 of WATER. Total price: 11820.6
+
+Total electricity consumption: 
+		Was consumed 752.40 of ELECTRICITY. Total price: 3009.6
+Total water consumption: 
+		Was consumed 411.90 of WATER. Total price: 27185.4
